@@ -1,0 +1,1 @@
+this is  a clone of amazon website only using html and css
